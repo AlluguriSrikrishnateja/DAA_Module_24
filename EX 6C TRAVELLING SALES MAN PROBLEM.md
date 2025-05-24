@@ -44,8 +44,8 @@ To Solve Travelling Sales man Problem for the following graph.
 ```
 /*
 To implement the program for TSP.
-Developed by: Koti Sai Sankar
-Register Number: 212222240111 
+Developed by: Alluguri Srikrishna Teja
+Register Number: 212222040006
 */
 ```
 ```
