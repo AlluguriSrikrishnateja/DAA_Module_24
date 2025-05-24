@@ -36,8 +36,8 @@ To write a python program using brute force method of searching for the given su
 ```
 /*
 To implement the program using brute force method of searching for the given substring in the main string.
-Developed by: Koti Sai Sankar
-Register Number: 212222240111
+Developed by: Alluguri Srikrishna Teja
+Register Number: 212222040006
 */
 ```
 ```
