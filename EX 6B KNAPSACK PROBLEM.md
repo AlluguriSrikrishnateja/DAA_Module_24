@@ -44,8 +44,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 ```
 /*
 To implement the program for 0/1 knapsack problem.
-Developed by: Koti Sai Sankar
-Register Number:  212222240111
+Developed by: Alluguri Srikrishna Teja
+Register Number:  212222040006
 */
 ```
 ```
